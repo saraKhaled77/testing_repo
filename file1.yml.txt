@@ -6,3 +6,4 @@ new feature1
 ------EOD--
 after branch:
 line1
+line7
